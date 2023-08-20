@@ -19,7 +19,6 @@ function Quote() {
       <button onClick={getSet}>Generate Quote</button>
       <h3>{text}</h3>
       <p>{'-'+ author}</p>
-      <p>---------</p>
     </>
   )
 }
